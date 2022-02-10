@@ -22,7 +22,7 @@ class Complex{
 				cout << soma[0] << " + " << soma[1] << "i" << endl;
 		}
 		
-		//logica subtra��o
+		//logica subtrao
 		void subt(double re_1, double re_2, double im_1, double im_2){
 			re_2 *= -1;//corretor do resultado
 			im_2 *= -1;
