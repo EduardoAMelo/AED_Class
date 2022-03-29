@@ -44,7 +44,15 @@
         "xstddef": "cpp",
         "xstring": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "iomanip": "cpp",
+        "xlocmon": "cpp",
+        "xloctime": "cpp",
+        "list": "cpp",
+        "deque": "cpp",
+        "queue": "cpp",
+        "vector": "cpp",
+        "stack": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
